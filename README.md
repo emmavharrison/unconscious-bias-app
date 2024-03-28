@@ -1,5 +1,13 @@
 <<<<<<< HEAD
-# React + Vite
+# Unconscious Bias App
+
+## Design
+
+https://docs.google.com/document/d/1LqYke1UcauZ3YttVEbhU2SL7ZHrgbAYUyKTsjG9s6Qc/edit
+## Symbols
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
